@@ -33,6 +33,7 @@
             <a href="account/login.php" class="in">Sign In</a>
             <a href="account/signUp.php" class="up">Sign Up</a>
         </div>
+        <!--panget ako -->
     </div>
 </body>
 </html>
